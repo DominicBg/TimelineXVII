@@ -1,0 +1,20 @@
+{
+  "name": "com.dominionxvii.timelinexvii",
+  "displayName": "TimelineXVII",
+  "version": "1.0.0",
+  "keywords": [
+    "timneine",
+    "animation"
+  ],
+  "category": "3D",
+  "description": "Small tool to help setting up a timeline in code",
+  "author": {
+    "name": "Dominic Brodeur-Gendron",
+    "email": "dominic.b.gendron@gmail.com",
+    "url": "https://github.com/DominicBg/"
+  },
+  "type": "library",
+  "dependencies": {
+    "com.unity.mathematics": "1.3.2"
+  }
+}
